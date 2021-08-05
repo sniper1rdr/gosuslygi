@@ -1,2 +1,0 @@
-# gosuslygi
-Begin app
